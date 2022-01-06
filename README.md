@@ -1,2 +1,2 @@
 # Vitor-Bot
-Bot for Gowther server
+Bot for Discord server
